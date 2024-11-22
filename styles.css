@@ -1,18 +1,18 @@
 body {
-    color: white;
+    color: rgb(239, 242, 243);
     background: rgb(102, 167, 252);
     margin: 0px;
     font-family: "Lobster", sans-serif;
     margin-bottom: 100px;
 }
 header {
-    border-bottom: solid 2px rgb(255, 255, 255);
+    border-bottom: solid 2px rgb(40, 74, 226);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: rgb(36, 117, 223);
 }
 .chamada {
-    background: rgb(196, 205, 216);
+    background: rgb(34, 110, 202);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -43,7 +43,7 @@ p {
 }
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(241, 243, 18);
+    border: 3px solid rgb(253, 253, 250);
 }
 .categoria h2 {
     color: rgb(255, 255, 255);
